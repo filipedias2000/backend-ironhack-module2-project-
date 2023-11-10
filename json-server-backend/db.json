@@ -1,5 +1,5 @@
 {
-  "EverydayList": [
+  "BooksList": [
     {
       "id": 1,
       "title": "Module 2 Project",
@@ -11,9 +11,18 @@
       "title": "Module 3 Project",
       "description": "Create a full-stack application using MERN stack.",
       "userId": 1
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
     }
   ],
-  "Favourites": [
+  "FavouriteBooksList": [
     {
       "id": 1,
       "projectId": 1,
