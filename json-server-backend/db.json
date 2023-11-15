@@ -1,6 +1,5 @@
 {
   "BooksList": [
-    /* We probably need to create a second array because we don't want to access all the BooksList */
   ],
   "FavouriteBooksList": [
     {
