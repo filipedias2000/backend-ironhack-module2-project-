@@ -1,22 +1,1585 @@
 {
-  "BooksList": [
-    /* We probably need to create a second array because we don't want to access all the BooksList */
-  ],
   "FavouriteBooksList": [
     {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "url": "https://openlibrary.org/books/OL38393770M/5_Ingredientes",
+      "key": "/books/OL38393770M",
+      "title": "5 Ingredientes",
+      "subtitle": "Pasteles y Postres",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL10463907A/Cinco_Tintas_Cinco_Tintas",
+          "name": "Cinco Tintas Cinco Tintas"
+        }
+      ],
+      "number_of_pages": 192,
+      "pagination": "192",
+      "weight": "0.405",
+      "identifiers": {
+        "isbn_13": [
+          "9788416407019"
+        ],
+        "openlibrary": [
+          "OL38393770M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Cinco Tintas"
+        }
+      ],
+      "publish_date": "2015",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13956328-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13956328-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13956328-L.jpg"
+      },
+      "id": 1
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "url": "https://openlibrary.org/books/OL25047409M/Sleepy_kittens",
+      "key": "/books/OL25047409M",
+      "title": "Sleepy kittens",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL2965107A/Paul_Cinco",
+          "name": "Paul, Cinco"
+        }
+      ],
+      "pagination": "1 v. (unpaged) :",
+      "by_statement": "by Cinco Paul & Ken Daurio ; illustrations by Eric Guillon",
+      "identifiers": {
+        "isbn_10": [
+          "031608381X"
+        ],
+        "isbn_13": [
+          "9780316083812"
+        ],
+        "lccn": [
+          "2011288772"
+        ],
+        "openlibrary": [
+          "OL25047409M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PZ8.3.P5277 Sle 2010",
+          ""
+        ],
+        "dewey_decimal_class": [
+          "[E]"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "LB Kids"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "New York"
+        }
+      ],
+      "publish_date": "2010",
+      "subjects": [
+        {
+          "name": "Specimens",
+          "url": "https://openlibrary.org/subjects/specimens"
+        },
+        {
+          "name": "Board books",
+          "url": "https://openlibrary.org/subjects/board_books"
+        },
+        {
+          "name": "Toy and movable books",
+          "url": "https://openlibrary.org/subjects/toy_and_movable_books"
+        },
+        {
+          "name": "Children's fiction",
+          "url": "https://openlibrary.org/subjects/children's_fiction"
+        },
+        {
+          "name": "Cats, fiction",
+          "url": "https://openlibrary.org/subjects/cats,_fiction"
+        },
+        {
+          "name": "Bedtime, fiction",
+          "url": "https://openlibrary.org/subjects/bedtime,_fiction"
+        }
+      ],
+      "notes": "Cover title.\n\n\"As seen in the film Despicable Me from Universal Pictures.\"\n\nThree felt finger puppets are attached to last p. of text and fit over strips on extended back cover.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/sleepykittens0000paul",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL25047409M/Sleepy_kittens/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/12734532-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/12734532-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/12734532-L.jpg"
+      },
+      "id": 2
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "url": "https://openlibrary.org/books/OL2225995M/Walden",
+      "key": "/books/OL2225995M",
+      "title": "Walden",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1013218A/Steve_Lowe",
+          "name": "Steve Lowe"
+        }
+      ],
+      "number_of_pages": 32,
+      "pagination": "[32] p. :",
+      "by_statement": "Henry David Thoreau ; text selections by Steven Lowe ; illustrations by Robert Sabuda.",
+      "identifiers": {
+        "goodreads": [
+          "4062882"
+        ],
+        "librarything": [
+          "2184773"
+        ],
+        "isbn_10": [
+          "0399221530"
+        ],
+        "lccn": [
+          "89070903"
+        ],
+        "oclc": [
+          "20758569"
+        ],
+        "openlibrary": [
+          "OL2225995M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PZ7.L9645 Wal 1990"
+        ],
+        "dewey_decimal_class": [
+          "[E]"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Philomel Books"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "New York"
+        }
+      ],
+      "publish_date": "1990",
+      "subjects": [
+        {
+          "name": "Nature",
+          "url": "https://openlibrary.org/subjects/nature"
+        },
+        {
+          "name": "Forests and forestry",
+          "url": "https://openlibrary.org/subjects/forests_and_forestry"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Nature stories",
+          "url": "https://openlibrary.org/subjects/nature_stories"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/walden00lowe",
+          "availability": "restricted",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/7367040-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/7367040-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/7367040-L.jpg"
+      },
+      "id": 4
+    },
+    {
+      "url": "https://openlibrary.org/books/OL5703369M/Huckleberries.",
+      "key": "/books/OL5703369M",
+      "title": "Huckleberries.",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL19690A/Henry_David_Thoreau",
+          "name": "Henry David Thoreau"
+        }
+      ],
+      "number_of_pages": 36,
+      "pagination": "36 p.",
+      "by_statement": "Edited, with an introd., by Leo Stoller. Pref. by Alexander C. Kern.",
+      "identifiers": {
+        "goodreads": [
+          "4750266"
+        ],
+        "isbn_10": [
+          "0871040913"
+        ],
+        "lccn": [
+          "70140315"
+        ],
+        "oclc": [
+          "162947"
+        ],
+        "openlibrary": [
+          "OL5703369M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "QK495.E68 T5"
+        ],
+        "dewey_decimal_class": [
+          "634/.732"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Windhover Press of the University of Iowa"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Iowa City]"
+        }
+      ],
+      "publish_date": "1970",
+      "subjects": [
+        {
+          "name": "Blueberries",
+          "url": "https://openlibrary.org/subjects/blueberries"
+        },
+        {
+          "name": "Huckleberries",
+          "url": "https://openlibrary.org/subjects/huckleberries"
+        }
+      ],
+      "notes": "330 copies printed.\n\"This lecture, previously unpublished, was edited from manuscripts in the Berg Collection of English and American Literature of the New York Public Library.\"",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8548161-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8548161-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8548161-L.jpg"
+      },
+      "id": 7
+    },
+    {
+      "url": "https://openlibrary.org/books/OL3340730M/Paraísos_artificiais",
+      "key": "/books/OL3340730M",
+      "title": "Paraísos artificiais",
+      "subtitle": "contos",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL204553A/Paulo_Henriques_Britto",
+          "name": "Paulo Henriques Britto"
+        }
+      ],
+      "number_of_pages": 127,
+      "pagination": "127 p. ;",
+      "by_statement": "Paulo Henriques Britto.",
+      "identifiers": {
+        "goodreads": [
+          "2526735"
+        ],
+        "librarything": [
+          "452505"
+        ],
+        "isbn_10": [
+          "853590591X"
+        ],
+        "lccn": [
+          "2004340407"
+        ],
+        "oclc": [
+          "58677495"
+        ],
+        "openlibrary": [
+          "OL3340730M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.12.R537 P37 2004",
+          "PQ9698.12.R537 P3 2004"
+        ],
+        "dewey_decimal_class": [
+          "869.3/42"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Companhia das Letras"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "[São Paulo, Brazil]"
+        }
+      ],
+      "publish_date": "2004",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4250614-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4250614-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4250614-L.jpg"
+      },
+      "id": 8
+    },
+    {
+      "url": "https://openlibrary.org/books/OL4724583M/On_the_road",
+      "key": "/books/OL4724583M",
+      "title": "On the road",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL21491A/Jack_Kerouac",
+          "name": "Jack Kerouac"
+        }
+      ],
+      "number_of_pages": 605,
+      "pagination": "xvii, 605 p. ;",
+      "by_statement": "Jack Kerouac ; text and criticism edited by Scott Donaldson.",
+      "identifiers": {
+        "librarything": [
+          "3207"
+        ],
+        "goodreads": [
+          "2550"
+        ],
+        "isbn_10": [
+          "0140155112"
+        ],
+        "lccn": [
+          "78012205"
+        ],
+        "oclc": [
+          "46410516"
+        ],
+        "openlibrary": [
+          "OL4724583M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PZ3.K4596 On 1979",
+          "PS3521.E735 On 1979",
+          "PZ3.K4596On 1979"
+        ],
+        "dewey_decimal_class": [
+          "813/.5/4"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Penguin Books"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "New York"
+        }
+      ],
+      "publish_date": "1979",
+      "subjects": [
+        {
+          "name": "Beat generation",
+          "url": "https://openlibrary.org/subjects/beat_generation"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Autobiographical fiction",
+          "url": "https://openlibrary.org/subjects/autobiographical_fiction"
+        },
+        {
+          "name": "Beat generation in literature",
+          "url": "https://openlibrary.org/subjects/beat_generation_in_literature"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "American Autobiographical fiction",
+          "url": "https://openlibrary.org/subjects/american_autobiographical_fiction"
+        },
+        {
+          "name": "Literature",
+          "url": "https://openlibrary.org/subjects/literature"
+        },
+        {
+          "name": "Classic Literature",
+          "url": "https://openlibrary.org/subjects/classic_literature"
+        },
+        {
+          "name": "Beat generation -- Fiction",
+          "url": "https://openlibrary.org/subjects/beat_generation_--_fiction"
+        },
+        {
+          "name": "Beats (Persons)",
+          "url": "https://openlibrary.org/subjects/beats_(persons)"
+        },
+        {
+          "name": "Bohemianism",
+          "url": "https://openlibrary.org/subjects/bohemianism"
+        },
+        {
+          "name": "Drugs",
+          "url": "https://openlibrary.org/subjects/drugs"
+        },
+        {
+          "name": "Jazz",
+          "url": "https://openlibrary.org/subjects/jazz"
+        },
+        {
+          "name": "Kerouac, Jack, 1922-1969",
+          "url": "https://openlibrary.org/subjects/kerouac,_jack,_1922-1969"
+        },
+        {
+          "name": "Literature - Classics / Criticism",
+          "url": "https://openlibrary.org/subjects/literature_-_classics_/_criticism"
+        },
+        {
+          "name": "Literature: Classics",
+          "url": "https://openlibrary.org/subjects/literature:_classics"
+        },
+        {
+          "name": "Classics",
+          "url": "https://openlibrary.org/subjects/classics"
+        },
+        {
+          "name": "Fiction / Literary",
+          "url": "https://openlibrary.org/subjects/fiction_/_literary"
+        },
+        {
+          "name": "Page proofs (Printing)",
+          "url": "https://openlibrary.org/subjects/page_proofs_(printing)"
+        },
+        {
+          "name": "Reading Level-Grade 11",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_11"
+        },
+        {
+          "name": "Reading Level-Grade 10",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_10"
+        },
+        {
+          "name": "Reading Level-Grade 12",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_12"
+        },
+        {
+          "name": "NOVELAS ESTADOUNIDENSES",
+          "url": "https://openlibrary.org/subjects/novelas_estadounidenses"
+        },
+        {
+          "name": "American fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/american_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "English language",
+          "url": "https://openlibrary.org/subjects/english_language"
+        },
+        {
+          "name": "Study guides",
+          "url": "https://openlibrary.org/subjects/study_guides"
+        },
+        {
+          "name": "Examinations",
+          "url": "https://openlibrary.org/subjects/examinations"
+        },
+        {
+          "name": "Beats (Persons) in literature",
+          "url": "https://openlibrary.org/subjects/beats_(persons)_in_literature"
+        },
+        {
+          "name": "New York Times reviewed",
+          "url": "https://openlibrary.org/subjects/new_york_times_reviewed"
+        },
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        },
+        {
+          "name": "On the road (Kerouac, Jack)",
+          "url": "https://openlibrary.org/subjects/on_the_road_(kerouac,_jack)"
+        },
+        {
+          "name": "Beatniks",
+          "url": "https://openlibrary.org/subjects/beatniks"
+        },
+        {
+          "name": "Romans, nouvelles",
+          "url": "https://openlibrary.org/subjects/romans,_nouvelles"
+        },
+        {
+          "name": "American fiction",
+          "url": "https://openlibrary.org/subjects/american_fiction"
+        },
+        {
+          "name": "Translations into Chinese",
+          "url": "https://openlibrary.org/subjects/translations_into_chinese"
+        },
+        {
+          "name": "American literature",
+          "url": "https://openlibrary.org/subjects/american_literature"
+        },
+        {
+          "name": "Literary",
+          "url": "https://openlibrary.org/subjects/literary"
+        },
+        {
+          "name": "Audio - Fiction - General",
+          "url": "https://openlibrary.org/subjects/audio_-_fiction_-_general"
+        },
+        {
+          "name": "Audio Adult: Books On Tape",
+          "url": "https://openlibrary.org/subjects/audio_adult:_books_on_tape"
+        },
+        {
+          "name": "General",
+          "url": "https://openlibrary.org/subjects/general"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "United States",
+          "url": "https://openlibrary.org/subjects/place:united_states"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://openlibrary.org/subjects/person:jack_kerouac"
+        },
+        {
+          "name": "Neal Casady",
+          "url": "https://openlibrary.org/subjects/person:neal_casady"
+        },
+        {
+          "name": "Jack Kerouac (1922-1969)",
+          "url": "https://openlibrary.org/subjects/person:jack_kerouac_(1922-1969)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1950s USA",
+          "url": "https://openlibrary.org/subjects/time:1950s_usa"
+        }
+      ],
+      "notes": "Bibliography: p. 602-605.\nOriginal ed. published in 1957 by Viking Press, New York.",
+      "links": [
+        {
+          "title": "New York Times review",
+          "url": "http://www.nytimes.com/2007/08/19/books/review/Sante2-t-1.html"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/onroad0000kero_a8n7",
+          "availability": "restricted",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/12737358-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/12737358-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/12737358-L.jpg"
+      },
+      "id": 9
+    },
+    {
+      "url": "https://openlibrary.org/books/OL28513870M/Deleuze_and_Guattari",
+      "key": "/books/OL28513870M",
+      "title": "Deleuze and Guattari",
+      "subtitle": "Emergent Law",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL7328103A/Jamie_Murray",
+          "name": "Jamie Murray"
+        }
+      ],
+      "number_of_pages": 192,
+      "identifiers": {
+        "isbn_13": [
+          "9780415817509"
+        ],
+        "openlibrary": [
+          "OL28513870M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "K370.M875 2013"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Taylor & Francis Group"
+        }
+      ],
+      "publish_date": "2014",
+      "subjects": [
+        {
+          "name": "Deleuze, gilles, 1925-1995",
+          "url": "https://openlibrary.org/subjects/deleuze,_gilles,_1925-1995"
+        },
+        {
+          "name": "Sociological jurisprudence",
+          "url": "https://openlibrary.org/subjects/sociological_jurisprudence"
+        },
+        {
+          "name": "Law, philosophy",
+          "url": "https://openlibrary.org/subjects/law,_philosophy"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "Arabian  Nights",
+      "author": "Mr. Gallard",
+      "description": "asdfghjmjhgfd",
+      "publish_date": "1800",
+      "cover": {
+        "large": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+      },
+      "id": 11
+    },
+    {
+      "url": "https://openlibrary.org/books/OL35315180M/The_Island_of_Doctor_Moreau",
+      "key": "/books/OL35315180M",
+      "title": "The Island of Doctor Moreau",
+      "subtitle": "Library Edition",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL13066A/H._G._Wells",
+          "name": "H. G. Wells"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7708382A/Jonathan_Kent",
+          "name": "Jonathan Kent"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "1602525641"
+        ],
+        "isbn_13": [
+          "9781602525641"
+        ],
+        "openlibrary": [
+          "OL35315180M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Tantor Media Inc"
+        }
+      ],
+      "publish_date": "Jun 01, 2007",
+      "notes": "Source title: The Island of Doctor Moreau: Library Edition",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/12125931-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/12125931-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/12125931-L.jpg"
+      },
+      "id": 12
+    },
+    {
+      "url": "https://openlibrary.org/books/OL30630164M/Hôri_pôtara_āṇi_Parīsa",
+      "key": "/books/OL30630164M",
+      "title": "Hôri pôtara āṇi Parīsa",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL23919A/J._K._Rowling",
+          "name": "J. K. Rowling"
+        }
+      ],
+      "number_of_pages": 290,
+      "pagination": "290 p.",
+      "by_statement": "Je. Ke. Roliṅga ; anuvāda, Bāḷa Ūrdhvareshe",
+      "identifiers": {
+        "isbn_13": [
+          "9788186775974"
+        ],
+        "lccn": [
+          "2011312476"
+        ],
+        "oclc": [
+          "758949017"
+        ],
+        "openlibrary": [
+          "OL30630164M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Manjul Pub. House"
+        },
+        {
+          "name": "Distributed by Mehta Pub. House"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Bhopal"
+        },
+        {
+          "name": "Pune"
+        }
+      ],
+      "publish_date": "2010",
+      "subjects": [
+        {
+          "name": "Ghosts",
+          "url": "https://openlibrary.org/subjects/ghosts"
+        },
+        {
+          "name": "Monsters",
+          "url": "https://openlibrary.org/subjects/monsters"
+        },
+        {
+          "name": "Vampires",
+          "url": "https://openlibrary.org/subjects/vampires"
+        },
+        {
+          "name": "Witches",
+          "url": "https://openlibrary.org/subjects/witches"
+        },
+        {
+          "name": "Challenges and Overcoming Obstacles",
+          "url": "https://openlibrary.org/subjects/challenges_and_overcoming_obstacles"
+        },
+        {
+          "name": "Magic and Supernatural",
+          "url": "https://openlibrary.org/subjects/magic_and_supernatural"
+        },
+        {
+          "name": "Cleverness",
+          "url": "https://openlibrary.org/subjects/cleverness"
+        },
+        {
+          "name": "School Life",
+          "url": "https://openlibrary.org/subjects/school_life"
+        },
+        {
+          "name": "school stories",
+          "url": "https://openlibrary.org/subjects/school_stories"
+        },
+        {
+          "name": "Wizards",
+          "url": "https://openlibrary.org/subjects/wizards"
+        },
+        {
+          "name": "Magic",
+          "url": "https://openlibrary.org/subjects/magic"
+        },
+        {
+          "name": "MAGIA",
+          "url": "https://openlibrary.org/subjects/magia"
+        },
+        {
+          "name": "MAGOS",
+          "url": "https://openlibrary.org/subjects/magos"
+        },
+        {
+          "name": "Juvenile fiction",
+          "url": "https://openlibrary.org/subjects/juvenile_fiction"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "NOVELAS INGLESAS",
+          "url": "https://openlibrary.org/subjects/novelas_inglesas"
+        },
+        {
+          "name": "Schools",
+          "url": "https://openlibrary.org/subjects/schools"
+        },
+        {
+          "name": "orphans",
+          "url": "https://openlibrary.org/subjects/orphans"
+        },
+        {
+          "name": "fantasy fiction",
+          "url": "https://openlibrary.org/subjects/fantasy_fiction"
+        },
+        {
+          "name": "England in fiction",
+          "url": "https://openlibrary.org/subjects/england_in_fiction"
+        },
+        {
+          "name": "Witches in fiction",
+          "url": "https://openlibrary.org/subjects/witches_in_fiction"
+        },
+        {
+          "name": "Wizards in fiction",
+          "url": "https://openlibrary.org/subjects/wizards_in_fiction"
+        },
+        {
+          "name": "Alchemy",
+          "url": "https://openlibrary.org/subjects/alchemy"
+        },
+        {
+          "name": "New York Times bestseller",
+          "url": "https://openlibrary.org/subjects/new_york_times_bestseller"
+        },
+        {
+          "name": "Juvenile literature",
+          "url": "https://openlibrary.org/subjects/juvenile_literature"
+        },
+        {
+          "name": "Magic in fiction",
+          "url": "https://openlibrary.org/subjects/magic_in_fiction"
+        },
+        {
+          "name": "Open Library Staff Picks",
+          "url": "https://openlibrary.org/subjects/open_library_staff_picks"
+        },
+        {
+          "name": "Juvenile audience",
+          "url": "https://openlibrary.org/subjects/juvenile_audience"
+        },
+        {
+          "name": "Children's stories",
+          "url": "https://openlibrary.org/subjects/children's_stories"
+        },
+        {
+          "name": "Juvenile works",
+          "url": "https://openlibrary.org/subjects/juvenile_works"
+        },
+        {
+          "name": "Schools in fiction",
+          "url": "https://openlibrary.org/subjects/schools_in_fiction"
+        },
+        {
+          "name": "Fantasy",
+          "url": "https://openlibrary.org/subjects/fantasy"
+        },
+        {
+          "name": "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
+          "url": "https://openlibrary.org/subjects/hogwarts_school_of_witchcraft_and_wizardry_(imaginary_place)"
+        },
+        {
+          "name": "Harry Potter (Fictitious character)",
+          "url": "https://openlibrary.org/subjects/harry_potter_(fictitious_character)"
+        },
+        {
+          "name": "Ficción juvenil",
+          "url": "https://openlibrary.org/subjects/ficción_juvenil"
+        },
+        {
+          "name": "Escuelas",
+          "url": "https://openlibrary.org/subjects/escuelas"
+        },
+        {
+          "name": "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
+          "url": "https://openlibrary.org/subjects/hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)"
+        },
+        {
+          "name": "Translations from English",
+          "url": "https://openlibrary.org/subjects/translations_from_english"
+        },
+        {
+          "name": "Chinese fiction",
+          "url": "https://openlibrary.org/subjects/chinese_fiction"
+        },
+        {
+          "name": "Hermione Granger (Fictitious character)",
+          "url": "https://openlibrary.org/subjects/hermione_granger_(fictitious_character)"
+        },
+        {
+          "name": "Reading Level-Grade 9",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_9"
+        },
+        {
+          "name": "Reading Level-Grade 11",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_11"
+        },
+        {
+          "name": "Reading Level-Grade 10",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_10"
+        },
+        {
+          "name": "Reading Level-Grade 12",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_12"
+        },
+        {
+          "name": "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+          "url": "https://openlibrary.org/subjects/hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization),_fiction"
+        },
+        {
+          "name": "Children's fiction",
+          "url": "https://openlibrary.org/subjects/children's_fiction"
+        },
+        {
+          "name": "Schools, fiction",
+          "url": "https://openlibrary.org/subjects/schools,_fiction"
+        },
+        {
+          "name": "England, fiction",
+          "url": "https://openlibrary.org/subjects/england,_fiction"
+        },
+        {
+          "name": "Potter, harry (fictitious character), fiction",
+          "url": "https://openlibrary.org/subjects/potter,_harry_(fictitious_character),_fiction"
+        },
+        {
+          "name": "Wizards, fiction",
+          "url": "https://openlibrary.org/subjects/wizards,_fiction"
+        },
+        {
+          "name": "Magic, fiction",
+          "url": "https://openlibrary.org/subjects/magic,_fiction"
+        },
+        {
+          "name": "Fiction, fantasy, general",
+          "url": "https://openlibrary.org/subjects/fiction,_fantasy,_general"
+        },
+        {
+          "name": "Large type books",
+          "url": "https://openlibrary.org/subjects/large_type_books"
+        },
+        {
+          "name": "Magier",
+          "url": "https://openlibrary.org/subjects/magier"
+        },
+        {
+          "name": "Fabeltiere",
+          "url": "https://openlibrary.org/subjects/fabeltiere"
+        },
+        {
+          "name": "Lehrling",
+          "url": "https://openlibrary.org/subjects/lehrling"
+        },
+        {
+          "name": "Kinderbuch",
+          "url": "https://openlibrary.org/subjects/kinderbuch"
+        },
+        {
+          "name": "Stein der Weisen",
+          "url": "https://openlibrary.org/subjects/stein_der_weisen"
+        },
+        {
+          "name": "Ungeheuer",
+          "url": "https://openlibrary.org/subjects/ungeheuer"
+        },
+        {
+          "name": "Junge",
+          "url": "https://openlibrary.org/subjects/junge"
+        },
+        {
+          "name": "English language",
+          "url": "https://openlibrary.org/subjects/english_language"
+        },
+        {
+          "name": "Translating into Welsh",
+          "url": "https://openlibrary.org/subjects/translating_into_welsh"
+        },
+        {
+          "name": "Modern history to 20th century: c 1700 to c 1900",
+          "url": "https://openlibrary.org/subjects/modern_history_to_20th_century:_c_1700_to_c_1900"
+        },
+        {
+          "name": "Literary theory",
+          "url": "https://openlibrary.org/subjects/literary_theory"
+        },
+        {
+          "name": "English literature",
+          "url": "https://openlibrary.org/subjects/english_literature"
+        },
+        {
+          "name": "Ron Weasley (Fictitious character)",
+          "url": "https://openlibrary.org/subjects/ron_weasley_(fictitious_character)"
+        },
+        {
+          "name": "Latin language materials",
+          "url": "https://openlibrary.org/subjects/latin_language_materials"
+        },
+        {
+          "name": "Romans, nouvelles, etc. pour la jeunesse",
+          "url": "https://openlibrary.org/subjects/romans,_nouvelles,_etc._pour_la_jeunesse"
+        },
+        {
+          "name": "Poudlard, école de sorcellerie (Organisation imaginaire)",
+          "url": "https://openlibrary.org/subjects/poudlard,_école_de_sorcellerie_(organisation_imaginaire)"
+        },
+        {
+          "name": "Sorciers",
+          "url": "https://openlibrary.org/subjects/sorciers"
+        },
+        {
+          "name": "Sorcières",
+          "url": "https://openlibrary.org/subjects/sorcières"
+        },
+        {
+          "name": "Magie",
+          "url": "https://openlibrary.org/subjects/magie"
+        },
+        {
+          "name": "Internats",
+          "url": "https://openlibrary.org/subjects/internats"
+        },
+        {
+          "name": "Adventure and adventurers, fiction",
+          "url": "https://openlibrary.org/subjects/adventure_and_adventurers,_fiction"
+        },
+        {
+          "name": "Action & Adventure",
+          "url": "https://openlibrary.org/subjects/action_&_adventure"
+        },
+        {
+          "name": "Fantasy & Magic",
+          "url": "https://openlibrary.org/subjects/fantasy_&_magic"
+        },
+        {
+          "name": "Social Themes",
+          "url": "https://openlibrary.org/subjects/social_themes"
+        },
+        {
+          "name": "Friendship",
+          "url": "https://openlibrary.org/subjects/friendship"
+        },
+        {
+          "name": "Harry Potter (Fictional character)",
+          "url": "https://openlibrary.org/subjects/harry_potter_(fictional_character)"
+        },
+        {
+          "name": "Friendship, fiction",
+          "url": "https://openlibrary.org/subjects/friendship,_fiction"
+        },
+        {
+          "name": "German language materials",
+          "url": "https://openlibrary.org/subjects/german_language_materials"
+        },
+        {
+          "name": "Witchcraft, fiction",
+          "url": "https://openlibrary.org/subjects/witchcraft,_fiction"
+        },
+        {
+          "name": "Wizard",
+          "url": "https://openlibrary.org/subjects/wizard"
+        },
+        {
+          "name": "NOVELAS FANTÁSTICAS",
+          "url": "https://openlibrary.org/subjects/novelas_fantásticas"
+        },
+        {
+          "name": "NOVELAS JUVENILES INGLESAS",
+          "url": "https://openlibrary.org/subjects/novelas_juveniles_inglesas"
+        },
+        {
+          "name": "LITERATURA JUVENIL ESTADOUNIDENSE",
+          "url": "https://openlibrary.org/subjects/literatura_juvenil_estadounidense"
+        },
+        {
+          "name": "Écoles",
+          "url": "https://openlibrary.org/subjects/écoles"
+        },
+        {
+          "name": "Hechicería",
+          "url": "https://openlibrary.org/subjects/hechicería"
+        },
+        {
+          "name": "Novela juvenil",
+          "url": "https://openlibrary.org/subjects/novela_juvenil"
+        },
+        {
+          "name": "Ingleterra",
+          "url": "https://openlibrary.org/subjects/ingleterra"
+        },
+        {
+          "name": "Mystery",
+          "url": "https://openlibrary.org/subjects/mystery"
+        },
+        {
+          "name": "roman",
+          "url": "https://openlibrary.org/subjects/roman"
+        },
+        {
+          "name": "English Fantasy literature",
+          "url": "https://openlibrary.org/subjects/english_fantasy_literature"
+        },
+        {
+          "name": "Translations into Marathi",
+          "url": "https://openlibrary.org/subjects/translations_into_marathi"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "England",
+          "url": "https://openlibrary.org/subjects/place:england"
+        },
+        {
+          "name": "Hogwarts School of Witchcraft and Wizardry",
+          "url": "https://openlibrary.org/subjects/place:hogwarts_school_of_witchcraft_and_wizardry"
+        },
+        {
+          "name": "4 Privet Drive",
+          "url": "https://openlibrary.org/subjects/place:4_privet_drive"
+        },
+        {
+          "name": "Diagon Alley",
+          "url": "https://openlibrary.org/subjects/place:diagon_alley"
+        },
+        {
+          "name": "Leaky Cauldron",
+          "url": "https://openlibrary.org/subjects/place:leaky_cauldron"
+        },
+        {
+          "name": "Gringotts Wizarding Bank",
+          "url": "https://openlibrary.org/subjects/place:gringotts_wizarding_bank"
+        },
+        {
+          "name": "Forbidden Forest",
+          "url": "https://openlibrary.org/subjects/place:forbidden_forest"
+        },
+        {
+          "name": "King's Cross Station",
+          "url": "https://openlibrary.org/subjects/place:king's_cross_station"
+        },
+        {
+          "name": "Platform Nine and Three-quarters",
+          "url": "https://openlibrary.org/subjects/place:platform_nine_and_three-quarters"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Harry Potter",
+          "url": "https://openlibrary.org/subjects/person:harry_potter"
+        },
+        {
+          "name": "Ron Weasley",
+          "url": "https://openlibrary.org/subjects/person:ron_weasley"
+        },
+        {
+          "name": "Hermione Granger",
+          "url": "https://openlibrary.org/subjects/person:hermione_granger"
+        },
+        {
+          "name": "Neville Longbottom",
+          "url": "https://openlibrary.org/subjects/person:neville_longbottom"
+        },
+        {
+          "name": "Rubeus Hagrid",
+          "url": "https://openlibrary.org/subjects/person:rubeus_hagrid"
+        },
+        {
+          "name": "Albus Dumbledore",
+          "url": "https://openlibrary.org/subjects/person:albus_dumbledore"
+        },
+        {
+          "name": "Minerva McGonagall",
+          "url": "https://openlibrary.org/subjects/person:minerva_mcgonagall"
+        },
+        {
+          "name": "Nicolas Flamel",
+          "url": "https://openlibrary.org/subjects/person:nicolas_flamel"
+        },
+        {
+          "name": "Norbert",
+          "url": "https://openlibrary.org/subjects/person:norbert"
+        },
+        {
+          "name": "Sorting Hat",
+          "url": "https://openlibrary.org/subjects/person:sorting_hat"
+        },
+        {
+          "name": "Severus Snape",
+          "url": "https://openlibrary.org/subjects/person:severus_snape"
+        },
+        {
+          "name": "Quirinus Quirrell",
+          "url": "https://openlibrary.org/subjects/person:quirinus_quirrell"
+        },
+        {
+          "name": "Petunia Dursley",
+          "url": "https://openlibrary.org/subjects/person:petunia_dursley"
+        },
+        {
+          "name": "Draco Malfoy",
+          "url": "https://openlibrary.org/subjects/person:draco_malfoy"
+        },
+        {
+          "name": "Argus Filch",
+          "url": "https://openlibrary.org/subjects/person:argus_filch"
+        },
+        {
+          "name": "Vernon Dursley",
+          "url": "https://openlibrary.org/subjects/person:vernon_dursley"
+        },
+        {
+          "name": "Dudley Dursley",
+          "url": "https://openlibrary.org/subjects/person:dudley_dursley"
+        },
+        {
+          "name": "Fred Weasley",
+          "url": "https://openlibrary.org/subjects/person:fred_weasley"
+        },
+        {
+          "name": "George Weasley",
+          "url": "https://openlibrary.org/subjects/person:george_weasley"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://openlibrary.org/subjects/person:jorge"
+        },
+        {
+          "name": "Ginny Weasley",
+          "url": "https://openlibrary.org/subjects/person:ginny_weasley"
+        },
+        {
+          "name": "Gina",
+          "url": "https://openlibrary.org/subjects/person:gina"
+        },
+        {
+          "name": "Molly Weasley",
+          "url": "https://openlibrary.org/subjects/person:molly_weasley"
+        },
+        {
+          "name": "Percy Weasley",
+          "url": "https://openlibrary.org/subjects/person:percy_weasley"
+        },
+        {
+          "name": "Vincent Crabbe",
+          "url": "https://openlibrary.org/subjects/person:vincent_crabbe"
+        },
+        {
+          "name": "Gregory Goyle",
+          "url": "https://openlibrary.org/subjects/person:gregory_goyle"
+        },
+        {
+          "name": "Lee Jordan",
+          "url": "https://openlibrary.org/subjects/person:lee_jordan"
+        },
+        {
+          "name": "Scabbers",
+          "url": "https://openlibrary.org/subjects/person:scabbers"
+        },
+        {
+          "name": "Hannah Abbott",
+          "url": "https://openlibrary.org/subjects/person:hannah_abbott"
+        },
+        {
+          "name": "Bloody Baron",
+          "url": "https://openlibrary.org/subjects/person:bloody_baron"
+        },
+        {
+          "name": "Susan Bones",
+          "url": "https://openlibrary.org/subjects/person:susan_bones"
+        },
+        {
+          "name": "Terry Boot",
+          "url": "https://openlibrary.org/subjects/person:terry_boot"
+        },
+        {
+          "name": "Mandy Brocklehurst",
+          "url": "https://openlibrary.org/subjects/person:mandy_brocklehurst"
+        },
+        {
+          "name": "Lavender Brown",
+          "url": "https://openlibrary.org/subjects/person:lavender_brown"
+        },
+        {
+          "name": "Millicent Bulstrode",
+          "url": "https://openlibrary.org/subjects/person:millicent_bulstrode"
+        },
+        {
+          "name": "Nearly Headless Nick",
+          "url": "https://openlibrary.org/subjects/person:nearly_headless_nick"
+        },
+        {
+          "name": "Fat Friar",
+          "url": "https://openlibrary.org/subjects/person:fat_friar"
+        },
+        {
+          "name": "Fat Lady",
+          "url": "https://openlibrary.org/subjects/person:fat_lady"
+        },
+        {
+          "name": "Justin Finch-Fetchley",
+          "url": "https://openlibrary.org/subjects/person:justin_finch-fetchley"
+        },
+        {
+          "name": "Seamus Finnigan",
+          "url": "https://openlibrary.org/subjects/person:seamus_finnigan"
+        },
+        {
+          "name": "Morag MacDougal",
+          "url": "https://openlibrary.org/subjects/person:morag_macdougal"
+        },
+        {
+          "name": "Lily Moon",
+          "url": "https://openlibrary.org/subjects/person:lily_moon"
+        },
+        {
+          "name": "Pansy Parkinson",
+          "url": "https://openlibrary.org/subjects/person:pansy_parkinson"
+        },
+        {
+          "name": "Padma Patil",
+          "url": "https://openlibrary.org/subjects/person:padma_patil"
+        },
+        {
+          "name": "Parvati Patil",
+          "url": "https://openlibrary.org/subjects/person:parvati_patil"
+        },
+        {
+          "name": "Chapéu Seletor",
+          "url": "https://openlibrary.org/subjects/person:chapéu_seletor"
+        },
+        {
+          "name": "Peeves",
+          "url": "https://openlibrary.org/subjects/person:peeves"
+        },
+        {
+          "name": "Dean Thomas",
+          "url": "https://openlibrary.org/subjects/person:dean_thomas"
+        },
+        {
+          "name": "Lisa Turpin",
+          "url": "https://openlibrary.org/subjects/person:lisa_turpin"
+        },
+        {
+          "name": "Blaise Zabini",
+          "url": "https://openlibrary.org/subjects/person:blaise_zabini"
+        },
+        {
+          "name": "Lilá",
+          "url": "https://openlibrary.org/subjects/person:lilá"
+        },
+        {
+          "name": "Harry Potter (Fictitious character)",
+          "url": "https://openlibrary.org/subjects/person:harry_potter_(fictitious_character)"
+        },
+        {
+          "name": "Hermine Granger",
+          "url": "https://openlibrary.org/subjects/person:hermine_granger"
+        },
+        {
+          "name": "Ron Weasly",
+          "url": "https://openlibrary.org/subjects/person:ron_weasly"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "Mr. And Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.",
+          "comment": "first sentence"
+        }
+      ],
+      "notes": "Novel.\n\nIn Marathi.",
+      "links": [
+        {
+          "title": "Harry Potter and the Philosopher's Stone - J.K. Rowling",
+          "url": "https://www.jkrowling.com/book/harry-potter-philosophers-stone/"
+        },
+        {
+          "title": "Harry Potter and the Philosopher's Stone - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
+        },
+        {
+          "title": "Harry Potter and the Philosopher's Stone by J.K. Rowling – review (theguardian.com)",
+          "url": "https://www.theguardian.com/childrens-books-site/2015/jul/29/harry-potter-and-the-philosophers-stone-j-k-rowling-review"
+        },
+        {
+          "title": "Harry Potter and the Philosopher's Stone by J.K. Rowling - review (theguardian.com)",
+          "url": "https://www.theguardian.com/childrens-books-site/2015/mar/01/review-j-k-rowling-harry-potter-philosophers-stone"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "sdfg",
+      "author": "ghj",
+      "description": "fgh",
+      "publish_date": "ghj",
+      "cover": {
+        "large": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+      },
+      "id": 14
+    },
+    {
+      "url": "https://openlibrary.org/books/OL32467722M/The_Arabian_Nights'_Entertainments._Transl._New_and_Complete_Ed._with_Illustr._by_S.J._Groves",
+      "key": "/books/OL32467722M",
+      "title": "The Arabian Nights' Entertainments. Transl. New and Complete Ed., with Illustr. by S.J. Groves",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL9170783A/Arabian_Nights",
+          "name": "Arabian Nights"
+        }
+      ],
+      "number_of_pages": 552,
+      "identifiers": {
+        "isbn_10": [
+          "0342094807"
+        ],
+        "isbn_13": [
+          "9780342094806"
+        ],
+        "openlibrary": [
+          "OL32467722M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Franklin Classics"
+        }
+      ],
+      "publish_date": "Oct 10, 2018",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/11124511-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/11124511-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/11124511-L.jpg"
+      },
+      "id": 15
+    },
+    {
+      "url": "https://openlibrary.org/books/OL5308793M/International_economics",
+      "key": "/books/OL5308793M",
+      "title": "International economics",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL219435A/Charles_Poor_Kindleberger",
+          "name": "Charles Poor Kindleberger"
+        }
+      ],
+      "number_of_pages": 526,
+      "pagination": "xviii, 526 p.",
+      "by_statement": "[by] Charles P. Kindleberger.",
+      "identifiers": {
+        "goodreads": [
+          "4855517"
+        ],
+        "isbn_10": [
+          "0256014353"
+        ],
+        "lccn": [
+          "72092424"
+        ],
+        "openlibrary": [
+          "OL5308793M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HF1411 .K5 1973"
+        ],
+        "dewey_decimal_class": [
+          "382"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "R. D. Irwin"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Homewood, Ill"
+        }
+      ],
+      "publish_date": "1973",
+      "subjects": [
+        {
+          "name": "Commerce",
+          "url": "https://openlibrary.org/subjects/commerce"
+        },
+        {
+          "name": "International economic relations",
+          "url": "https://openlibrary.org/subjects/international_economic_relations"
+        },
+        {
+          "name": "Relations économiques internationales",
+          "url": "https://openlibrary.org/subjects/relations_économiques_internationales"
+        },
+        {
+          "name": "Droit international économique",
+          "url": "https://openlibrary.org/subjects/droit_international_économique"
+        },
+        {
+          "name": "Economic policy",
+          "url": "https://openlibrary.org/subjects/economic_policy"
+        },
+        {
+          "name": "Weltwirtschaft",
+          "url": "https://openlibrary.org/subjects/weltwirtschaft"
+        }
+      ],
+      "notes": "Includes bibliographical references.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/internationaleco0000kind",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL5308793M/International_economics/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/9258060-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/9258060-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/9258060-L.jpg"
+      },
+      "id": 17
+    },
+    {
+      "url": "https://openlibrary.org/books/OL45155479M/Uma_aventura",
+      "key": "/books/OL45155479M",
+      "title": "Uma aventura",
+      "subtitle": "No Teatro",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL7166505A/Ana_Maria_Magalhães_e_Isabel_Alçada",
+          "name": "Ana Maria Magalhães e Isabel Alçada"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "972210019X"
+        ],
+        "isbn_13": [
+          "9789722100199"
+        ],
+        "openlibrary": [
+          "OL45155479M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editorial Caminho"
+        }
+      ],
+      "publish_date": "Dec 31, 2012",
+      "notes": "Source title: Uma aventura : No Teatro (Portuguese Edition)",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13122899-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13122899-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13122899-L.jpg"
+      },
+      "id": 18
+    },
+    {
+      "title": "The great Gatsby",
+      "authors": "fitzgeral",
+      "description": "",
+      "publish_date": "1220",
+      "cover": {
+        "large": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+      },
+      "id": 19
     }
   ]
 }
